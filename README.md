@@ -1,2 +1,1 @@
-# miniature-octo-spoon
-Ecommerce Api Golang
+# go-wishlist-add-to-cart
